@@ -4,7 +4,7 @@
   "homepage": "https://github.com/wimpysworld/sidra",
   "license": "BlueOak-1.0.0",
   "url": "https://github.com/wimpysworld/sidra/releases/download/0.3.4/Sidra-0.3.4-win-x64.exe#/dl.7z",
-  "hash": "Hyr0DXfdGZf29zUzJzlYN7qQHj5cGwHbtgwSeRTenktr2A1w6F7geCd+FitnsVVIvDP+ie7+gkyuoMXlfRU0Aw==",
+  "hash": "cbda429fabd2e22793cda19c64a3a226ec7cd7aa6c5a645e14278440b6b7960d",
   "bin": [
     [
       "Sidra.exe",
